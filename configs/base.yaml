@@ -1,0 +1,8 @@
+data:
+  result_url: https://raw.githubusercontent.com/martj42/international_results/master/results.csv
+  result_file: results.csv
+  rank_file: fifa_ranking-2022-10-06.csv
+  table_matches: table_match.pkl
+
+day_get_rank: 2020-1-1  # Format: YYYY-MM-DD
+day_get_result: 2018-1-1
